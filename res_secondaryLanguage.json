@@ -1,0 +1,180 @@
+{
+  "basic_info": {
+    "description_header": "Hallo!",
+    "description": "👋 Mein Name ist Tomislav Pajic. Ich bin ein Blockchain-Entwickler, der sich schon immer für die Blockchain-Technologie begeistert hatte und sich kürzlich dazu entschlossen hat, die Entwicklung von Ethereum zu lernen und an dieser Revolution durch den Aufbau teilzunehmen. Ich lerne jeden Tag mehr über die Technologie und verbessere mich ständig mit meinen Programmierkenntnissen. Am Anfang habe ich grundlegende Solidity-Smart-Contracts codiert und dann den Ethereum-Stack weiter untersucht. Ich bin auf Verträge mit Truffle, Ganache, Infura, Hardhat, Web3.js, Ethers.js, GoEth, OpenZeppelin usw. gestoßen. Es gibt mehrere Full-Stack-Apps, die ich erstellt habe und die im Abschnitt „Empfohlene Projekte“ unten vorgestellt werden. Jetzt fühle ich mich bereit, den letzten Schritt zu tun, nämlich ein Unternehmen zu finden, in dem meine Fähigkeiten wirklich herausgefordert werden können, und ich kann meine Spuren in der Branche hinterlassen, während ich ein aufregendes Projekt in einem ehrgeizigen Unternehmen aufbaue.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Featured Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "NFT Marketplace",
+      "startDate": "2022",
+      "description": "Vollständiges Projekt, inspiriert von NFT-Marktplätzen, mit den grundlegenden Funktionen wie das Erstellen eines NFT, das Auflisten zum Verkauf, das Kaufen anderer NFTs, das Anzeigen Ihrer Bestände und Transaktionen. Aufbauend auf dem Startcode und der Anleitung der Dapp University. Verwendete Technologien: Solidity 0.8 zum Schreiben des Smart Contracts, JavaScript für das Frontend und Testen, Ethers.js für die Interaktion mit Blockchain, Hardhat als Entwicklungsframework, IPFS für die Metadatenspeicherung und schließlich React Routers für Navigationskomponenten.",
+      "images": [
+        "images/portfolio/nft-marketplace/nft-marketplace-thumbnail.png",
+        "images/portfolio/nft-marketplace/nft-marketplace-home.png",
+        "images/portfolio/nft-marketplace/nft-marketplace-create.png",
+        "images/portfolio/nft-marketplace/nft-marketplace-my-listed-items.png"
+      ],
+      "url": "https://github.com/tomislavpajic1/nft-marketplace-sol",
+      "technologies": [
+        {
+          "class": "vscode-icons:file-type-light-solidity",
+          "name": "Solidity"
+        },
+        {
+          "class": "vscode-icons:file-type-reactts",
+          "name": "React"
+        },
+        {
+          "class": "logos:ethers",
+          "name": "Ethers.js"
+        },
+        {
+          "class": "logos:hardhat-icon",
+          "name": "Hardhat"
+        }
+      ]
+    },
+    {
+      "title": "NFT Music Player",
+      "startDate": "2022",
+      "description": "Interessantes, von Spotify inspiriertes Projekt mit einem zusätzlichen NFT-Twist, bei dem ein Benutzer jeden Song als ERC721-Token kaufen kann. Aufbauend auf dem Startcode und der Anleitung der Dapp University. Verwendet Solidity 0.8 zum Schreiben des Smart Contract, JavaScript für das Frontend und Testen, Ethers.js für die Interaktion mit Blockchain, Hardhat als Entwicklungsframework, IPFS für die Metadatenspeicherung und schließlich React Routers für Navigationskomponenten.",
+      "images": [
+        "images/portfolio/nft-music-player/nft-music-player-thumbnail.png",
+        "images/portfolio/nft-music-player/nft-music-player-home.png",
+        "images/portfolio/nft-music-player/nft-music-player-my-tokens.png",
+        "images/portfolio/nft-music-player/nft-music-player-my-resales.png"
+      ],
+      "url": "https://github.com/tomislavpajic1/nft-music-player",
+      "technologies": [
+        {
+          "class": "vscode-icons:file-type-light-solidity",
+          "name": "Solidity"
+        },
+        {
+          "class": "vscode-icons:file-type-reactts",
+          "name": "React"
+        },
+        {
+          "class": "logos:ethers",
+          "name": "Ethers.js"
+        },
+        {
+          "class": "logos:hardhat-icon",
+          "name": "Hardhat"
+        }
+      ]
+    },
+    {
+      "title": "Vending Machine",
+      "startDate": "2022",
+      "description": "Dies ist ein sehr einfacher Smart Contract, der zeigt, wie wir die Funktionalität des Verkaufsautomaten mit der Programmiersprache Solidity simulieren würden. Es ist keine Benutzeroberfläche implementiert, da dies nur ein grundlegendes Konzept ist, nichts zu fortgeschritten. Sie können diesen Code ausführen, indem Sie ihn kopieren und in Remix IDE einfügen und auf Testnet/VM bereitstellen.",
+      "images": [
+        "images/portfolio/vending-machine/vending-machine-thumbnail.png"
+      ],
+      "url": "https://github.com/tomislavpajic1/vending-machine",
+      "technologies": [
+        {
+          "class": "vscode-icons:file-type-light-solidity",
+          "name": "Solidity"
+        }
+      ]
+    },
+    {
+      "title": "Forkify",
+      "startDate": "2022",
+      "description": "Vanilla JavaScript-App zum Durchsuchen einer großen Rezeptdatenbank, unterstützt auch das Markieren von Lieblingsrezepten, das Anpassen von Portionsgrößen und das Hinzufügen Ihrer eigenen Rezepte. Erstellt im Rahmen des Complete JavaScript Course 2022 von Jonas Schmedtmann. Präsentiert sehr fortgeschrittene JavaScript-Funktionen und Logikkenntnisse, JavaScript-Klassen, asynchrones JavaScript, MVC-Architektur usw.",
+      "images": [
+        "images/portfolio/forkify/forkify-thumbnail.png",
+        "images/portfolio/forkify/forkify-home.png",
+        "images/portfolio/forkify/forkify-recipe.png",
+        "images/portfolio/forkify/forkify-add-recipe.png"
+      ],
+      "url": "https://github.com/tomislavpajic1/forkify-js",
+      "technologies": [
+        {
+          "class": "bxl:javascript",
+          "name": "JavaScript"
+        },
+        {
+          "class": "akar-icons:html-fill",
+          "name": "HTML 5"
+        },
+        {
+          "class": "akar-icons:css-fill",
+          "name": "CSS 3"
+        }
+      ]
+    },
+    {
+      "title": "Mapty",
+      "startDate": "2022",
+      "description": "Vanilla JavaScript-App zum Protokollieren Ihres Trainings auf einer echten Karte Ihres aktuellen Standorts, die von Ihrer Geolokalisierung gezogen wird. Unterstützt zwei verschiedene Workouts – Laufen und Radfahren. Speichert Ihre Workouts im lokalen Speicher und behält sie bei, wenn Sie die Website aktualisieren. Erstellt im Rahmen des Complete JavaScript Course 2022 von Jonas Schmedtmann. Präsentiert OOP, Geolokalisierungs-APIs, externe Bibliotheken, lokale Speichernutzung usw.",
+      "images": [
+        "images/portfolio/mapty/mapty-thumbnail.png",
+        "images/portfolio/mapty/mapty-home.png",
+        "images/portfolio/mapty/mapty-workouts.png"
+      ],
+      "url": "https://github.com/tomislavpajic1/mapty-js",
+      "technologies": [
+        {
+          "class": "bxl:javascript",
+          "name": "JavaScript"
+        },
+        {
+          "class": "akar-icons:html-fill",
+          "name": "HTML 5"
+        },
+        {
+          "class": "akar-icons:css-fill",
+          "name": "CSS 3"
+        }
+      ]
+    },
+    {
+      "title": "Bankist",
+      "startDate": "2022",
+      "description": "Vanilla JavaScript, das als Demoversion der grundlegenden NetBanking-Funktionalität fungiert. Sie können Geld zwischen Konten senden, einen Kredit beantragen, Ihr Konto schließen, alle Ihre vorherigen Transaktionen anzeigen usw. Erstellt als Teil des vollständigen JavaScript-Kurses 2022 von Jonas Schmedtmann. Es zeigt erweitertes Funktionswissen, Logik, DOM-Manipulation und die Arbeit mit verschiedenen Array-Methoden.",
+      "images": [
+        "images/portfolio/bankist/bankist-thumbnail.png",
+        "images/portfolio/bankist/bankist-home.png"
+      ],
+      "url": "https://github.com/tomislavpajic1/bankist-js",
+      "technologies": [
+        {
+          "class": "bxl:javascript",
+          "name": "JavaScript"
+        },
+        {
+          "class": "akar-icons:html-fill",
+          "name": "HTML 5"
+        },
+        {
+          "class": "akar-icons:css-fill",
+          "name": "CSS 3"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Anmocito LLC",
+      "title": "Front-End Developer",
+      "years": "07.2021 - present",
+      "about": "Erstellen benutzerdefinierter Shopify- und Wordpress-Websites hauptsächlich für E-Commerce-Kunden. Beginnend mit nichts als der Vision des Kunden auf Papier, dann mit bestehenden Plugins in ein fertiges Produkt zu verwandeln und sogar eigene Apps zu erstellen, wenn die Bedürfnisse des Kunden nicht mit bestehenden Lösungen erfüllt werden können.",
+      "mainTech": ["JavaScript / HTML / CSS / Wordpress / Shopify"]
+    },
+    {
+      "company": "Elcon Geraetebau d.o.o.",
+      "title": "CNC Programmer",
+      "about": "Programmierung von hochleistungsfähigem, vollständig optimiertem Code, der zur Steuerung von CNC-Fräsmaschinen bei der Herstellung von hochpräzisen ( +/- 0,05 mm) Teilen für verschiedene Branchen verwendet wird. Überwiegend in der Heidenhain-Oberfläche gearbeitet, auch vertraut mit CAD-CAM-Technologien. Sehr verantwortungsvolle Arbeit, ich war in den gesamten technologischen Prozess eingebunden, von der Analyse der technischen Dokumentation und der Planung der gesamten Produktion bis zum Verlassen des fertigen Produkts zur Verpackung und Lieferung. Einige meiner Arbeiten wurden an Firmen wie Bosch, Leica, Syntegon usw. geliefert.",
+      "years": "11.2019 - 06.2021",
+      "mainTech": ["Heidenhain Programming"]
+    }
+  ]
+}
