@@ -1,0 +1,180 @@
+{
+  "basic_info": {
+    "description_header": "Hello!",
+    "description": "👋 My name is Tomislav Pajic. I am a Blockchain Developer who has always been excited about Blockchain technology, but recently I decided to learn Ethereum development and take part in this revolution by building. I learn more about the technology every day, and constantly progress with my programming. In the beginning, I coded basic Solidity smart contracts, then explored the Ethereum stack further. I encountered Truffle, Ganache, Infura, Hardhat, Web3.js, Ethers.js, GoEth, OpenZeppelin contracts, etc. There are multiple full stack apps showcased in the Featured Projects section below. Now I feel ready to take the final step, which is to find an amazing company where I can put my skills to the test as well as improve even further to start building the technology of tomorrow!",
+    "section_name": {
+      "about": "About me",
+      "projects": "Featured Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "NFT Marketplace",
+      "startDate": "2022",
+      "description": "Full project inspired by NFT Marketplaces with the basic functionality like creating an NFT, listing it for sale, buying other NFTs, viewing your holdings and transactions. Built on top of the starter code and guide provided by Dapp University. Technologies used: Solidity 0.8 for writing the smart contract, JavaScript for the front-end and testing, Ethers.js for interacting with Blockchain, Hardhat as the development framework, IPFS for the metadata storage and finally React Routers for navigation components.",
+      "images": [
+        "images/portfolio/nft-marketplace/nft-marketplace-thumbnail.png",
+        "images/portfolio/nft-marketplace/nft-marketplace-home.png",
+        "images/portfolio/nft-marketplace/nft-marketplace-create.png",
+        "images/portfolio/nft-marketplace/nft-marketplace-my-listed-items.png"
+      ],
+      "url": "https://github.com/tomislavpajic1/nft-marketplace-sol",
+      "technologies": [
+        {
+          "class": "vscode-icons:file-type-light-solidity",
+          "name": "Solidity"
+        },
+        {
+          "class": "vscode-icons:file-type-reactts",
+          "name": "React"
+        },
+        {
+          "class": "logos:ethers",
+          "name": "Ethers.js"
+        },
+        {
+          "class": "logos:hardhat-icon",
+          "name": "Hardhat"
+        }
+      ]
+    },
+    {
+      "title": "NFT Music Player",
+      "startDate": "2022",
+      "description": "Interesting project inspired by Spotify with an added NFT twist where a user can buy each song as an ERC721 token. Built on top of the starter code and guide provided by Dapp University. Used Solidity 0.8 for writing the smart contract, JavaScript for the front-end and testing, Ethers.js for interacting with Blockchain, Hardhat as the development framework, IPFS for the metadata storage and finally React Routers for navigation components.",
+      "images": [
+        "images/portfolio/nft-music-player/nft-music-player-thumbnail.png",
+        "images/portfolio/nft-music-player/nft-music-player-home.png",
+        "images/portfolio/nft-music-player/nft-music-player-my-tokens.png",
+        "images/portfolio/nft-music-player/nft-music-player-my-resales.png"
+      ],
+      "url": "https://github.com/tomislavpajic1/nft-music-player",
+      "technologies": [
+        {
+          "class": "vscode-icons:file-type-light-solidity",
+          "name": "Solidity"
+        },
+        {
+          "class": "vscode-icons:file-type-reactts",
+          "name": "React"
+        },
+        {
+          "class": "logos:ethers",
+          "name": "Ethers.js"
+        },
+        {
+          "class": "logos:hardhat-icon",
+          "name": "Hardhat"
+        }
+      ]
+    },
+    {
+      "title": "Vending Machine",
+      "startDate": "2022",
+      "description": "This is a very basic smart contract that showcases how we would simulate the vending machine functionality using the Solidity programming language. There is no UI implemented as this is just a basic concept showcase, nothing too advanced. You can run this code by copy-pasting it to Remix IDE and deploying it to Testnet/VM.",
+      "images": [
+        "images/portfolio/vending-machine/vending-machine-thumbnail.png"
+      ],
+      "url": "https://github.com/tomislavpajic1/vending-machine",
+      "technologies": [
+        {
+          "class": "vscode-icons:file-type-light-solidity",
+          "name": "Solidity"
+        }
+      ]
+    },
+    {
+      "title": "Forkify",
+      "startDate": "2022",
+      "description": "Vanilla JavaScript app for searching a large recipe database, also supports bookmarking favorite recipes, adjusting serving sizes and adding your own recipes. Created as part of The Complete JavaScript Course 2022 by Jonas Schmedtmann. Showcases very advanced JavaScript functions  and logic knowledge, JavaScript classes, asynchronous JavaScript, MVC architecture, etc.",
+      "images": [
+        "images/portfolio/forkify/forkify-thumbnail.png",
+        "images/portfolio/forkify/forkify-home.png",
+        "images/portfolio/forkify/forkify-recipe.png",
+        "images/portfolio/forkify/forkify-add-recipe.png"
+      ],
+      "url": "https://github.com/tomislavpajic1/forkify-js",
+      "technologies": [
+        {
+          "class": "bxl:javascript",
+          "name": "JavaScript"
+        },
+        {
+          "class": "akar-icons:html-fill",
+          "name": "HTML 5"
+        },
+        {
+          "class": "akar-icons:css-fill",
+          "name": "CSS 3"
+        }
+      ]
+    },
+    {
+      "title": "Mapty",
+      "startDate": "2022",
+      "description": "Vanilla JavaScript app for logging your workouts on a real map of your current location pulled by your geolocation. Supports two different workouts - running and cycling. Stores your workouts in the local storage, and keeps them whenever you refresh the website. Created as part of The Complete JavaScript Course 2022 by Jonas Schmedtmann. Showcases OOP, geolocation APIs, external libraries, local storage usage, etc.",
+      "images": [
+        "images/portfolio/mapty/mapty-thumbnail.png",
+        "images/portfolio/mapty/mapty-home.png",
+        "images/portfolio/mapty/mapty-workouts.png"
+      ],
+      "url": "https://github.com/tomislavpajic1/mapty-js",
+      "technologies": [
+        {
+          "class": "bxl:javascript",
+          "name": "JavaScript"
+        },
+        {
+          "class": "akar-icons:html-fill",
+          "name": "HTML 5"
+        },
+        {
+          "class": "akar-icons:css-fill",
+          "name": "CSS 3"
+        }
+      ]
+    },
+    {
+      "title": "Bankist",
+      "startDate": "2022",
+      "description": "Vanilla JavaScript which acts as a demo version of basic NetBanking functionality. You can send money between accounts, request a loan, close your account, view all of your previous transactions, etc. Created as part of The Complete JavaScript Course 2022 by Jonas Schmedtmann. It showcases advanced functions knowledge, logic, DOM manipulation and working with different array methods.",
+      "images": [
+        "images/portfolio/bankist/bankist-thumbnail.png",
+        "images/portfolio/bankist/bankist-home.png"
+      ],
+      "url": "https://github.com/tomislavpajic1/bankist-js",
+      "technologies": [
+        {
+          "class": "bxl:javascript",
+          "name": "JavaScript"
+        },
+        {
+          "class": "akar-icons:html-fill",
+          "name": "HTML 5"
+        },
+        {
+          "class": "akar-icons:css-fill",
+          "name": "CSS 3"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Anmocito LLC",
+      "title": "Front-End Developer",
+      "years": "07.2021 - present",
+      "about": "My journey with Anmocito LLC started from basic web development which included building Wordpress and Shopify websites for dropshipping clients. However, I was very passionate about my websites and found myself needing more than the basic Wordpress and Shopify functionality allowed. This inspired me to learn JavaScript which I used to start tweaking existing plugins, theme files, and then progressed to writing my own apps.",
+      "mainTech": ["JavaScript / HTML / CSS / Wordpress / Shopify"]
+    },
+    {
+      "company": "Elcon Geraetebau d.o.o.",
+      "title": "CNC Programmer",
+      "about": "Programming high-performance, fully optimized code which is used for controlling CNC Milling machines in the process of manufacturing high-precision ( +/- 0.05mm ) parts for various industries. Mostly worked in the Heidenhain interface, also familiar with CAD-CAM technologies. Very responsible job, I was included in the whole technological process from analysing technical documentation and planning the whole production until the finished product left for packing and delivery. Some of my work was delivered to companies such as Bosch, Leica, Syntegon, etc.",
+      "years": "11.2019 - 06.2021",
+      "mainTech": ["Heidenhain Programming"]
+    }
+  ]
+}

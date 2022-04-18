@@ -1,0 +1,71 @@
+{
+  "basic_info": {
+    "name": "Tomislav Pajic",
+    "titles": ["Blockchain Developer", "Front-end Developer"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/tomislavpajic1",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tomislav-pajic-a47158235/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Solidity",
+        "class": "simple-icons:solidity"
+      },
+      {
+        "name": "Truffle",
+        "class": "logos:truffle-icon"
+      },
+      {
+        "name": "Hardhat",
+        "class": "logos:hardhat-icon"
+      },
+      {
+        "name": "Ganache",
+        "class": "logos:ganache-icon"
+      },
+      {
+        "name": "Web3.js",
+        "class": "logos:web3js"
+      },
+      {
+        "name": "Ethers.js",
+        "class": "logos:ethers"
+      },
+      {
+        "name": "Mocha",
+        "class": "logos:mocha"
+      },
+      {
+        "name": "Chai",
+        "class": "file-icons:chai"
+      },
+      {
+        "name": "Node.js",
+        "class": "fa-brands:node-js"
+      },
+      {
+        "name": "JavaScript",
+        "class": "vscode-icons:file-type-js-official"
+      },
+      {
+        "name": "HTML 5",
+        "class": "logos:html-5"
+      },
+      {
+        "name": "CSS 3",
+        "class": "logos:css-3"
+      }
+    ]
+  }
+}
