@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hallo!",
-    "description": "👋 Mein Name ist Tomislav Pajic. Ich bin ein Blockchain-Entwickler, der sich schon immer für die Blockchain-Technologie begeistert hat, aber vor kurzem habe ich mich entschieden, die Entwicklung von Ethereum zu lernen und an dieser Revolution durch den Aufbau teilzunehmen. Ich lerne jeden Tag mehr über die Technologie und mache mit meiner Programmierung ständig Fortschritte. Am Anfang habe ich grundlegende Solidity-Smart-Contracts codiert und dann den Ethereum-Stack weiter untersucht. Ich bin auf Truffle, Ganache, Infura, Hardhat, Web3.js, Ethers.js, GoEth, OpenZeppelin-Verträge usw. gestoßen. Es gibt mehrere Full-Stack-Apps, die im Abschnitt „Vorgestellte Projekte“ unten vorgestellt werden. Jetzt fühle ich mich bereit, den letzten Schritt zu tun, nämlich ein großartiges Unternehmen zu finden, in dem ich meine Fähigkeiten unter Beweis stellen und mich noch weiter verbessern kann, um mit dem Aufbau der Technologie von morgen zu beginnen!",
+    "description": "👋 Mein Name ist Tomislav Pajic. Ich bin ein Blockchain-Entwickler, der sich schon immer für die Blockchain-Technologie begeistert hat, aber vor kurzem habe ich mich entschieden, die Entwicklung von Ethereum zu lernen und an dieser Revolution durch den Aufbau teilzunehmen. Ich lerne jeden Tag mehr über die Technologie und verbessere mich ständig mit meinen Programmierkenntnissen. Am Anfang habe ich grundlegende Solidity-Smart-Contracts codiert und dann den Ethereum-Stack weiter untersucht. Ich bin auf Verträge mit Truffle, Ganache, Infura, Hardhat, Web3.js, Ethers.js, GoEth, OpenZeppelin usw. gestoßen. Es gibt mehrere Full-Stack-Apps, die ich erstellt habe und die im Abschnitt „Empfohlene Projekte“ unten vorgestellt werden. Jetzt fühle ich mich bereit, den letzten Schritt zu tun, nämlich ein Unternehmen zu finden, in dem meine Fähigkeiten wirklich herausgefordert werden können, und ich kann meine Problemlösung präsentieren, während ich ein aufregendes Projekt in einem ehrgeizigen Unternehmen aufbaue.",
     "section_name": {
       "about": "About me",
       "projects": "Featured Projects",
@@ -166,7 +166,7 @@
       "company": "Anmocito LLC",
       "title": "Front-End Developer",
       "years": "07.2021 - present",
-      "about": "Meine Reise mit Anmocito LLC begann mit der grundlegenden Webentwicklung, die den Aufbau von Wordpress- und Shopify-Websites für Dropshipping-Kunden umfasste. Ich war jedoch sehr leidenschaftlich in Bezug auf meine Websites und stellte fest, dass ich mehr als die grundlegenden Wordpress- und Shopify-Funktionen benötigte. Dies inspirierte mich dazu, JavaScript zu lernen, mit dem ich anfing, vorhandene Plugins und Designdateien zu optimieren und dann meine eigenen Apps zu schreiben.",
+      "about": "Erstellen benutzerdefinierter Shopify- und Wordpress-Websites hauptsächlich für E-Commerce-Kunden. Beginnend mit nichts als der Vision des Kunden auf Papier, dann mit bestehenden Plugins in ein fertiges Produkt zu verwandeln und sogar eigene Apps zu erstellen, wenn die Bedürfnisse des Kunden nicht mit bestehenden Lösungen erfüllt werden können.",
       "mainTech": ["JavaScript / HTML / CSS / Wordpress / Shopify"]
     },
     {
